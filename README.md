@@ -1,3 +1,2 @@
 # PHP-Invoice
-###Download an archive of dompdf and extract it into the directory where dompdf
-will reside
+### Download and Extract dompdf into the directory 
